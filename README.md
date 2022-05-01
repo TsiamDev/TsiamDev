@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=TsiamDev&style=for-the-badge)
+![](https://hit.yhype.me/github/profile?user_id=56920806)
 <!--
 **TsiamDev/TsiamDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
